@@ -1,0 +1,456 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders given out; the word, stand fast. As it was lately delivered in a farewell sermon / by Major Samuel Kem, to the officers and souldiers of his regiment in Bristoll. Novemb. 8. 1646.</title>
+            <author>Kem, Samuel, 1604-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87671</idno>
+            <idno type="STC">Wing K254</idno>
+            <idno type="STC">Thomason E366_3</idno>
+            <idno type="STC">ESTC R29849</idno>
+            <idno type="EEBO-CITATION">99872244</idno>
+            <idno type="PROQUEST">99872244</idno>
+            <idno type="VID">160080</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160080)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E366[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders given out; the word, stand fast. As it was lately delivered in a farewell sermon / by Major Samuel Kem, to the officers and souldiers of his regiment in Bristoll. Novemb. 8. 1646.</title>
+                  <author>Kem, Samuel, 1604-1670.</author>
+               </titleStmt>
+               <extent>[8], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.M. for Michael Spark, and are to be sold at the sign of the blue Bible in Green Arbour.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647 [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason received his copy December 16, 1646.</note>
+                  <note>Annotation on Thomason copy: "Dec: 16th 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 1st XVI, 13-14 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Military discipline --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160080:1"/>
+            <pb facs="tcp:160080:1" rendition="simple:additions"/>
+            <p>
+               <hi>Orders given out; the Word,</hi> Stand Faſt.</p>
+            <p>As it was lately delivered in a farewell SERMON BY Major <hi>Samuel Kem,</hi> to the Officers and Souldiers of his Regiment in Briſtoll.</p>
+            <p>
+               <hi>Novemb.</hi> 8. 1646.</p>
+            <q>
+               <p>For now are we alive if yee ſtand faſt in the Lord.</p>
+               <p>Finally my brethren be ſtrong in the Lord and in the power of his might.</p>
+               <p>Put on the whole Armour of God that yee may be able to stand, &amp;c.</p>
+            </q>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I.M.</hi> for <hi>Michael Spark,</hi> and are to be ſold at the ſign of the blue Bible in <hi>Green Arbour.</hi> 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:160080:2"/>
+            <pb facs="tcp:160080:2"/>
+            <head>TO the Noble and Experienced faith<g ref="char:EOLhyphen"/>full Officers of my Regiment, Captain <hi>Hart</hi> ſenior, Capt. <hi>Grig,</hi> Capt. <hi>Pope,</hi> Capt. <hi>Roe,</hi> Capt. Lieut. <hi>Richards.</hi>
+            </head>
+            <opener>
+               <salute>Noble Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was your love firſt ingaged me to take the charge of the City Regiment, and I appeal to you, whether my private gain, or the publicke ſervice was my ends, in accepting of my Commiſſion; ſince which received; I have put you in a poſture, whereby you are inabled to defend your ſelves, or offend the Kingdomes Enemies; it is my happineſſe I can ſay and none dare gain-ſay, the faithfull acting my part, Yet am I a debter to your Love; and in regard the chamber ſtock of my abilities fail me to diſ<g ref="char:EOLhyphen"/>charge
+<pb facs="tcp:160080:3"/>
+what I owe; yet were it diſhoneſty not to keep promiſe, what therefore you heard with ſo much patience; and importu<g ref="char:EOLhyphen"/>ned (with more hope to be granted) I have here preſented to your charity. Do but be<g ref="char:EOLhyphen"/>leeve it, and ſtand faſt in the Truths of Jeſus Chriſt, and it ſhall be a compleat compenſa<g ref="char:EOLhyphen"/>tion for all my labours with you.</p>
+            <p>And ſince I muſt leave you, give me leave to comfort you, and to tell you my heart: that I think you are the happieſt Garriſon in the Kingdome maugre you ſemi-Reduce<g ref="char:EOLhyphen"/>ment, whilſt you poſſeſſe within your line, that reall piece of Valour, humility, and ſin<g ref="char:EOLhyphen"/>cerity, and no leſſe Noble then Cordiall Pa<g ref="char:EOLhyphen"/>triot of his Kingdome, your Governour: Who, abhors all ſelf-ends, and denyeth atten<g ref="char:EOLhyphen"/>dance onely for the publick good, and ſhould I here that he were Charioted from you either by diſcouragement or ingagement, I ſhould ſadly cry out, Oh my Father, my Father, the horſe-men and chariots of Iſrael and pray for a double portion of his Spirit on all his publicke aiming ſchollers in this Kingdom.</p>
+            <p>Yea, give me leave to councell you: the
+<pb facs="tcp:160080:3"/>
+word is, Stand Faſt, I beſeech you do ſo to God and his Glory; to Jeſus Chriſt and his Truths, to your Covenant in its naked true primitive intentions, as at firſt before the All-ſeeing-God; to both the honourable Houſes of Parliament who have adventured all for you, to the worthy aſſembly of Di<g ref="char:EOLhyphen"/>vines who ſeek God continually for you and attend his Will to declare it to you, and to me the moſt unworthy of the Kingdome and your ſervants who flyes to you for protection; yeilding my Commiſſion and ſubſcribing myſelf, Noble Gentlemen,</p>
+            <closer>
+               <signed>
+                  <hi>Yours and the Kingdoms faithful, although mean, Servant</hi> Samuel Kem</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:160080:4"/>
+            <head>Vpon his much honoured friends Farewell Sermon <hi>M. D.</hi> theſe few lines.</head>
+            <l>KNow Soldier, theſe enſuing pages tel</l>
+            <l>The properties of a true Centinel;</l>
+            <l>Orders are given out, The word <hi>Standfast,</hi>
+            </l>
+            <l>Which intimates true valor firſt and laſt</l>
+            <l>For let me tel thee if thy heels prove light</l>
+            <l>What ere thy Colours be, thy Liver's white,</l>
+            <l>Therefore be ſtedfaſt, Though the giddy rout</l>
+            <l>Wear windmils in their heads and wheel about</l>
+            <l>Keep thou thy Poſts, though others Hedghog like</l>
+            <l>Shrink up their courage in ſome narrow Dike</l>
+            <l>Of ſelf reſpects, there's no ſuch liberty</l>
+            <l>In Truths plain field either to ſquat or fly.</l>
+            <l>Such as out-run the Truth may here wel know</l>
+            <l>They can have no good ground for what they do;</l>
+            <l>Stand to your Arms then (Chriſtians) and advance</l>
+            <l>To beat all falſhood out of Countenance,</l>
+            <l>And rout the infantry of new rays'd Crimes</l>
+            <l>And Troops of Hobby-horſes of theſe Times;</l>
+            <l>This is the only way to get to be</l>
+            <l>Captain Lievtenant to Integritie<g ref="char:punc">▪</g>
+            </l>
+            <l>
+               <pb facs="tcp:160080:4"/>Now to the Author of this Book one word,</l>
+            <l>Who ſpeaks and then maintains it by the ſword,</l>
+            <l>Stil crop the peaking Errors which appear,</l>
+            <l>That <hi>Malobus</hi> like not one may ſhew its ears.</l>
+            <l>Stil preach the <hi>truth,</hi> although ſome <hi>Gadarens</hi>
+            </l>
+            <l>Have made thee quit their Coaſts by hoggiſh means</l>
+            <l>Stil fight for <hi>truth</hi> fear not a ſquint-ey'd troop</l>
+            <l>Of falſe opinions, rather make them ſtoop</l>
+            <l>To ſence and truth, or elſe ſo rout their train</l>
+            <l>That they may never Rally up again.</l>
+            <l>Wel haſt thou left the Land to put to Sea</l>
+            <l>Where you'l not find ſo much inconſtancie;</l>
+            <l>Fiſher of men, caſt out thy net once more</l>
+            <l>'Tis like you'l catch at Sea, more then a ſhore.</l>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:160080:5"/>
+            <head>To his friend the Author:</head>
+            <l>SIR, wil you leave us, and is this your laſt</l>
+            <l>Orders given out, the word ſtand faſt,</l>
+            <l>Weele you obey, and ſeeing we muſt part</l>
+            <l>Who ever comands our perſons you the heart:</l>
+            <l>Farewell dear Major, this we are forſt to ſay</l>
+            <l>You put us in a poſture, and we wiſh your pay</l>
+            <closer>
+               <signed>Yours in Truth, <hi>R. R.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:160080:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 CORINTH. 16.13, 14.</hi>
+                  </bibl>
+                  <p>Stand faſt in the Faith: quit you like men: Be strong. Let all things be done in love.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE words of departing friends, if ſeaſonable, make ſenſible not the head, but the heart, of thoſe in Relation; Theſe are my laſt, and I am come to take leave of you, for action, but never in af<g ref="char:EOLhyphen"/>fection; Communions below, howbeit laſting are not everlaſt<g ref="char:EOLhyphen"/>ing; The ſtakes of the Tabernacle muſt be removed; And every Member of the Church Militant muſt be joging on: The Temple is our type of a ſetled condi<g ref="char:EOLhyphen"/>tion above: In a word I am to leave you; and there<g ref="char:EOLhyphen"/>fore deſire to leave ſuch orders (becoming my Truſt with you) as may ſecure you for Gods glory and your mutual comforts. The Alarum beats Chriſtian ſoldi<g ref="char:EOLhyphen"/>ers, to your arms, take heed (as the caſe ſtands) of facing about, but as you were; to yout ground of Scripture foundations, and ſo <hi>stand faſt in the faith.</hi> And although
+<pb n="2" facs="tcp:160080:6"/>
+reducable, in regard of humane Actings, yet never in this life muſt you expect a diſcharge from ſpiritual millitary undertakings, for when you were liſted in Jeſus Chriſt muſter-role it was not for a day leſſe or more then your life, And therefore I beſeech you <hi>ſtand fast.</hi>
+            </p>
+            <p>The grand General againſt your precious ſouls hath taken the field with a vaſt Army, as ſubtil, as power<g ref="char:EOLhyphen"/>ful, as cruel to execute, as malicious to proſecute his deſigns; his main body is ſinful fleſh, and the more dangerous becauſe ſo neerly related unto us. And I muſt tel you that Relations in War are of dangerous conſequence: This Body is flankt on the right and left with potent Troops of prevailing Enemies; And Self-ends hath under hand Commiſſion to be Scout-maſter General; whoſe ſub-undertakers are acting under various ſhapes; all ſpecious; yet all ſervants to Self-ends. Avoyd his Ambuſhments, when falling on, and you may, <hi>ſtanding faſt,</hi> come off with honor. Theſe thing premiſed (as that there is no further uſe of me in this City, and I being deſigned for other ſer<g ref="char:EOLhyphen"/>vice; and knowing that errors in battel are irrecove<g ref="char:EOLhyphen"/>rable; I could do no leſſe, but heartily wiſh I could do more, then direct you, and counſel you; Eſpeci<g ref="char:EOLhyphen"/>ally upon the diſcovery of a late, large, and numerous Recruit on the Enemies Partie; for the moſt part all conſiſting of ſuch as have revolted from our own Partie; and have quit their ground of truths: The Commander in cheif of this Regiment is Error, whoſe Colours are freſh, and of glorious reſplendency; but changeable; and therefore <hi>ſtand faſt,</hi> for his faireſt quarter is ruine; which appeareth by his free quarter in your families, when his firſt actings are to diviſion,
+<pb n="3" facs="tcp:160080:6"/>
+yea betwixt thoſe of the neereſt and deared relations, <hi>and a houſe divided cannot ſtand.</hi> I by Commiſſion am ingaged for your relief, and therefore for your fu<g ref="char:EOLhyphen"/>ture ſecurity I ſhal intreat you to ſtrengthen your ſelves by this Recruit conſiſting of three Diviſi<g ref="char:EOLhyphen"/>ons.</p>
+            <p>
+               <list>
+                  <item>Firſt, Fidelity, or Conſtan<g ref="char:EOLhyphen"/>cy. <hi>Stand faſt in the truth: quit your ſelvs like men, be ſtrong.</hi>
+                  </item>
+                  <item>Second, Spiritual Gallantry. <hi>Stand faſt in the truth: quit your ſelvs like men, be ſtrong.</hi>
+                  </item>
+                  <item>Third, Unity. <hi>Let all things be done in love.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The firſt of theſe wil keep you from being Rou<g ref="char:EOLhyphen"/>ted.</p>
+            <p>The ſecond from being Conquered.</p>
+            <p>The third from being Ruined.</p>
+            <p>The firſt wil argue you men.</p>
+            <p>The ſecond wil report you gallant men, or men of men.</p>
+            <p>The third wil demonſtrate you holy and humble Chriſtian men.</p>
+            <p>And therefore now beloved Officers and Chriſtian fellow Soldiers, take Courage; take you the Field to ſcare not to face your Enemies, and give me leave to ſhew you your General, compleatly accoutred in <hi>Johns</hi> viſion, obſerve his ordering the Feild; and give me leave (leaving the iſſue to God) to fal on.</p>
+            <p>Firſt, let Conſtancy in the Faith, and all the Truths of Jeſus Chriſt have the Battalia.</p>
+            <p>Secondly, let ſpiritual Courage have the right wing.</p>
+            <p>Thirdly, let Love have the leſt, and overcome all.</p>
+            <p>I ſhal adventure to fal on with Conſtancy; ſecond me with Courage; and I beſeech you that all may be
+<pb n="4" facs="tcp:160080:7"/>
+done, and ſuffered by the conqueſt of Love.</p>
+            <div n="1" type="part">
+               <head>Firſt, of the firſt.</head>
+               <p>
+                  <hi>Stand fast</hi> that's the Word; Faith in the heart, not in the head, is the ſignal; <hi>Stand fast</hi> not a while and then revolt or give ground. To walk a while in the truth, and after for any ends to deſert it, is baſe, it argues not a Soldier to liſt his name, and to purchaſe a feather (ſhews are light things in military actings) or wear a ſword, or to appear on the march, if they either take hedge or windmil for a ſhelter, or quit their ground, or truſt in the ſhock of Battail. Tru<g ref="char:EOLhyphen"/>ly we ſay a drunken man never made good Soul<g ref="char:EOLhyphen"/>dier; nor a reeling headed man a good Chriſtian Soldier.</p>
+            </div>
+            <div n="2" type="part">
+               <head>Secondly.</head>
+               <p>
+                  <hi>In the Faith,</hi> not in falſhoods, in the truths, not ſhews; zeal and ſtedfaſtneſſe are right, when the one is a ſharp weapon for Truth, and the other is ſtiffe and unbending for the Faith. Now you are to know there is a two-fold Faith; One by which wee beleeve. Secondly, Is, that which is beleeved; and this is called Doctrinall Faith. Now when Chriſtians are zealous, reſolute, and will dye in the Truths, and for the Truths of Je<g ref="char:EOLhyphen"/>ſus Chriſt, this is <hi>to ſtand faſt in the Faith,</hi>
+               </p>
+            </div>
+            <div type="observation">
+               <head>Obſervation.</head>
+               <p>Standing faſt to the Truths of Jeſus Chriſt ſtrenu<g ref="char:EOLhyphen"/>ouſly with conſtancy, is a notable peece of ſpirituall Gallantry,</p>
+               <p>This you ſhal find hinted to the Angel of the Church of <hi>Smirnians,</hi> Revel. 2.10. <hi>Fear none of theſe things which thou ſhalt ſuffer for the truth;</hi> and in the 11. verſe and latter end, <hi>Be faithful to the death, and I wil give
+<pb n="5" facs="tcp:160080:7"/>
+thee a crown of life;</hi> The Spirit of God records this point of Gallantry in the Church of <hi>Pergamus,</hi> verſe 13. <hi>I know thy works, where thou dwelleſt, where Sathan hath his ſeat;</hi> i. e. where wicked men are in authority, and hereſie prevaileth; <hi>yet thou holdeſt faſt my name, and hast not denyed the faith, even in thoſe dayes where<g ref="char:EOLhyphen"/>in</hi> Antipas <hi>my faithful Martyr ſuffered,</hi> &amp;c. <hi>Rev.</hi> 3.10, 11, 12. 1 <hi>Joh.</hi> 2.23, 24. <hi>Let that therefore abide in you which ye have heard from the beginning; If that ſhall abide in you, ye ſhal continue in the Son, und in the Fa<g ref="char:EOLhyphen"/>ther,</hi> now to be in God, is to be Heroick indeed, 2 <hi>Pet.</hi> 1.12. <hi>That ye be eſtabliſhed in the preſent truth;</hi> 1 <hi>Pet.</hi> 5.9. <hi>Whom reſist stedfaſt in the Faith:</hi> 2 <hi>Theſ.</hi> 2.15. <hi>Therefore brethren ſtand faſt.</hi> It was Gallantry in the <hi>Grecian</hi> women, who when their ſons put on their ſheilds, gave them in charge either to bring them back or dye: It is ſtoryed of <hi>Epaminondes</hi> that hee was ſo addicted to his buckler, that he was wont to ſay, I wil either hold thee, or dye with the loſſe of thee.</p>
+               <p>It was the gallant reſolution of a <hi>Roman</hi> Officer either to keep his ground or loſe his life. Truly Chri<g ref="char:EOLhyphen"/>ſtian friends it is gallantry in you in theſe ſad times of Alaruming Truth in its quarters; and upon the ſe<g ref="char:EOLhyphen"/>veral charges is given the men of truth, daily to <hi>stand</hi> or <hi>fall</hi> with it in our hearts.</p>
+            </div>
+            <div type="question">
+               <head>Quaere.</head>
+               <p>But Sir I pray what is <hi>truth?</hi> one ſaith he is for <hi>truth,</hi> and this is <hi>truth,</hi> another ſays that is, and is for it; what is the <hi>truth</hi> you councel us to ſtand faſt unto.</p>
+            </div>
+            <div type="answer">
+               <head>Solut.</head>
+               <p>There are humane moral <hi>Truths,</hi> rules in ſecular Arts, ſuch as <hi>Paul</hi> held faſt until his converſion, but
+<pb n="6" facs="tcp:160080:8"/>
+then let go, not the uſe of them but the abuſe of them, he left glorying in them, <hi>counted all dung for the excellent knowledge of Jeſus Christ.</hi>
+               </p>
+               <div n="2" type="part">
+                  <head>Secondly.</head>
+                  <p>There are Divine truths called Scripture truths, theſe are either Imaginary or Real; I do not ſay it is gallantry to ſtand faſt to all that every man delivers to you for truth, or propounds, or conjectures to bee ſo, but ſuch as Scripture determines to be ſo; ſuch as the word wil own, and wil own the word upon de<g ref="char:EOLhyphen"/>mand, in the evidence of his, not our own ſpirits. For truly it is with Truth at this day, as with the Infant brought to <hi>Solomon,</hi> the falſe mothers cry divide it, and let every one ſhare in that limb, which his own conſcience (which indeed is no conſcience) guides him unto, which is to profer themſelves to poſterity, the founders of an intolerable Toleration of all Er<g ref="char:EOLhyphen"/>rors; and by this way, <hi>Antichriſt</hi> himſelf (againſt whom we have ſolemnly proteſted, and before God ſo unanimouſly covenanted) muſt be in equity admit<g ref="char:EOLhyphen"/>ted a childs portion; The LORD direct our <hi>Solomons</hi> to that height of ſurpaſſing wiſdome, as to give the child of Truth to its own Parents that cry a whole, and one or none.</p>
+                  <p>To ſtand faſt to this whole truth of God, and for it, is indeed Spiritual gallantry.</p>
+                  <p>
+                     <hi>Athanaſius</hi> and others of the <hi>Nicene</hi> Fathers would not add one jot about the Diety of Jeſus Chriſt, no not in any time; Times may differ, men may change and vary, but Truth never; whether in proſperity, as in <hi>Constantines</hi> days, or in adverſity, as in <hi>Neroes,</hi> truth is the ſame; The fixed ſtars ſhine in the coldeſt nights, yea then brighteſt.</p>
+                  <p>
+                     <pb n="7" facs="tcp:160080:8"/>
+                     <hi>Joſephus</hi> reports of the <hi>Samaritans</hi> that if any good befel the <hi>Jews,</hi> then they would claim their kindred, and boaſt that they came from <hi>Jacob;</hi> but if in any miſery, or under a cloud with the ſtate they gave out, they had no relation to them. Many there are that vary their reſpects to truth according to the ſavour, the eminent perſons in it ſet on it. But give me the men that wil ſtand their ground on aſſault, and make up the breach although they fal man by man in the gap; yea under the ſword, own truth as <hi>Paul,</hi> or in a Den of Lions, or a fiery furnace, that piſh at all the barkings, bitings, frownings, fawnings of curriſh hereticks, that have <hi>Peters</hi> gallantry better managed, <hi>Although all forſake thee I wil not.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="question">
+               <head>Quaere.</head>
+               <p>I pray Sir inform us how we may <hi>quit our ſelves like men,</hi> and <hi>ſtand faſt to Truth?</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Solut.</head>
+               <p>Firſt, get a ſolid ſound judgement; ſo made by the light of a clear &amp; ſanctified underſtanding of Scrip<g ref="char:EOLhyphen"/>ture principles, admit not of a reeling head, a revolting Soldier is a baſe man, unworthy the name or ſociety of ſoldiers; never to be truſted more; <hi>Epheſ.</hi> 4.14. the Apoſtle exhorteth them that <hi>they be henceforth no more children toſsed to &amp; fro with every blast of doctrine by the ſlight of men;</hi> take heed of ſuch a judgement as is car<g ref="char:EOLhyphen"/>ryed up and down with the current. The Primitive times yeelded more ſound judgements; <hi>Athaniſius</hi> held faſt in his Judgement the diety of <hi>Chriſt</hi> againſt the <hi>Arrians; Auguſtine</hi> the doctrine of <hi>grace</hi> againſt the <hi>Pelagians;</hi> Truly I confeſſe it is an honor to a man to confeſſe an Error, but a horrid ſhame to ſuffer for any ſelf-ends any truth to bee ſupplanted,
+<pb n="8" facs="tcp:160080:9"/>
+by any Innovation or Errour.</p>
+               <div n="2" type="part">
+                  <head>Secondly.</head>
+                  <p>Labour to have a ſtubborn and ſtout wil in relation to what is ſurely known to be the truth of God; take heed of a flexible coming wil; yea hold it faſt in affe<g ref="char:EOLhyphen"/>ction, that which we love dearly we ſtick cloſe too. A child wil hardly be weaned from the breſt it hath found ſweetneſſe and ſtrength from, and is experienced in nouriſhment; you that have found God preſent with much ſweetneſſe in his Ordinances by the publick ad<g ref="char:EOLhyphen"/>miniſtration, I beſeech you do not now trample on them and deſpiſe them, whilſt they and theirs is the ſame for ſweetneſſe, for holineſſe.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>Thirdly.</head>
+                  <p>Stand faſt to the <hi>Truth</hi> in profeſſion, <hi>Philip.</hi> 2.18. holding forth the word of life, not only to beleeve <hi>Truths,</hi> but to confeſſe them before men, not with <hi>Peter</hi> to revolt and effect to ſay we know not the man.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>Fourthly.</head>
+                  <p>In converſation practiſe <hi>Truth,</hi> Saint <hi>John</hi> cals it walking in the <hi>Truth,</hi> when men hold on in the <hi>Truth</hi> againſt all diſcouragements; although they loſe by it apparantly, yet they hold it forth couragi<g ref="char:EOLhyphen"/>ouſly.</p>
+               </div>
+            </div>
+            <div type="question">
+               <head>Quaere.</head>
+               <p>But pray Sir why do you ſo far ingage us in this ſer<g ref="char:EOLhyphen"/>vice, in theſe days of Liberty.</p>
+            </div>
+            <div type="answer">
+               <head>Solut.</head>
+               <p>It is worthy thy ingagement, for <hi>it is more excellent then the excellenteſt of the creatures,</hi> Prov. 3.14, 15. you cannot pitch on ſuch an excellency; <hi>Revel.</hi> 3.11. <hi>Hold fast,</hi> ſays the Spirit, <hi>let none take thy Crown;</hi> the
+<pb n="9" facs="tcp:160080:9"/>
+Crown is the top of Royalty; who would not keep his ground, if a Crown were the ſtake.</p>
+               <p>But its excellency wil further appear if you conſider theſe two particulars: Firſt the holineſs of it; The more holy, the more excellent; Cor<g ref="char:EOLhyphen"/>ruptions are diminutions of excellency; the more mixt things are, the more baſe they are; as the mixture of Gold and Tin, Wine and Water, Sil<g ref="char:EOLhyphen"/>ver and Droſſe; ever the more pure, the more glo<g ref="char:EOLhyphen"/>rious. Now the <hi>Truths</hi> of God are holy, not as men with mixtures of Corruption, but as the Light at Noon-day, without any miſts, fogs, mix<g ref="char:EOLhyphen"/>tures of darkneſſe; and although <hi>Truth</hi> may be in a fog as the Sun, yet not foggy.</p>
+               <div n="2" type="part">
+                  <head>Secondly.</head>
+                  <p>The more God is in any thing the more excel<g ref="char:EOLhyphen"/>lent but God, is altogether in his <hi>Truth:</hi> Hee is there in the brightneſs of his wiſdom; in the great<g ref="char:EOLhyphen"/>neſs of his power; in the Riches of his mercy, in the honor of his juſtice; yea in this Word is his Chriſt and our Jeſus, therefore worth ſtanding faſt unto.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>Thirdly.</head>
+                  <p>
+                     <hi>Truth</hi> is made over to us under termes of Con<g ref="char:EOLhyphen"/>ſtancy and perpetuity, and therefore in Scripture termed our heritage, perſonal eſtates are often ſold, thoſe that are out by deſcent hereditary ought to be kept for poſterity; <hi>God forbid, ſaid</hi> Naboath, <hi>I ſhould ſel the inheritance of my Fathers:</hi> Pſa. 119.111. <hi>They are my heritage, ſaith</hi> David, <hi>for ever.</hi> Let me tel you, poſterity is worthy our thoughts, and what we ſhal leave to them in point of <hi>Truth.</hi>
+                  </p>
+               </div>
+               <div n="4" type="part">
+                  <pb n="10" facs="tcp:160080:10"/>
+                  <head>Fourthly.</head>
+                  <p>God truſts us with his truths, 2 <hi>Tim.</hi> 1.14. It is by the Apoſtle called <hi>the good thing committed to us to keep;</hi> now in matters of truſt we ſhould be faith<g ref="char:EOLhyphen"/>ful; It is the moſt vileſt and unworthyeſt thing in the world to betray a Truſt, eſpecially where <hi>truth</hi> is on their ſide; In matters of truſt we ſhould be faithful to the death. It is obſervable Truſt muſt be redelivered: 2. wholy, not leſſe then delivered: 3. Only to the Truſter; and truly otherwiſe it is extreamly injurious to God; For although they are ours for efficacy, yet they are Gods for the au<g ref="char:EOLhyphen"/>thority. <hi>Truths</hi> are Gods Jewels of truſt; and he will call all of us to an account what uſe wee have made of them; what we have done with them; what unto them; what mixtures of our own heads with them.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>Fifthly.</head>
+                  <p>It concerneth you to keep your ground, for your eternall wel-being dependeth on it: You can no more live ſpiritually without pure <hi>truths,</hi> then cor<g ref="char:EOLhyphen"/>porally without bread; you cannot be convinced without <hi>Truth;</hi> you cannot be contrite, and have your corrupt hearts prickt, but by the <hi>Truth,</hi> Acts 2. When they heard thoſe <hi>Truths</hi> they were prickt at their hearts &amp;c. Converſion is from <hi>Truth,</hi> Pſa. 19.7. <hi>Converting ſouls, &amp;c.</hi> Faith is brought into the ſoul by hearing the <hi>Truth;</hi> Augmentation is from it, in grace; Jeſus Chriſt is united to the ſoul by faith, Perſeverance is from it; <hi>Rom.</hi> 1.16. 2 <hi>Tim.</hi> 3.16, 17. <hi>vid.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="1" type="application">
+               <pb n="11" facs="tcp:160080:10"/>
+               <head>Uſe <hi>1.</hi> Information.</head>
+               <p>Of the unworthy walking of this age for the moſt part in relation to this duty of ſtanding faſt to the <hi>Truth;</hi> yea of many that are eminently furniſhed with common gifts and excellent parts, there is much ſlipperineſſe and baſe unſetledneſſe of ſpirit upon them, even to <hi>truth</hi> it ſelf, both in doctrine and converſation, for truth in doctrine we may complain as the Apoſtle to the <hi>Galatians</hi> in the 1. and 6. I wonder you are ſo ſoon removed from him that called you into the grace of Jeſus Chriſt unto another Goſpel; it is grown no wonder in our times; for how do the moſt, for moſt baſe ends, quit their ancient grounds which they received and beleeved, and gloryed in for <hi>truth;</hi> and for pre<g ref="char:EOLhyphen"/>ferment-ſake ſhew <hi>truth</hi> a fair pair of heels, and a foul heart. The ancient Diſciples left ſhips, nets, cuſtome-houſe, for to follow <hi>truth;</hi> but now pro<g ref="char:EOLhyphen"/>feſſed Diſciples leave Chriſt for places of Exciſe and Cuſtom-houſe. Some turn ſneaking <hi>Anabap<g ref="char:EOLhyphen"/>tiſts;</hi> ſome fal off to <hi>Socinian</hi> blaſphemies; ſome to <hi>Antinomians</hi> fancies; and many <hi>Seekers.</hi> Seek you any of you great things for your ſelves, ſeek them not; It is no time to be furniſhing your Cabins, when the boults and butt-ends of the very planks of the ſhip are ſtarted out. The Lord pity us, what a ſpirit of giddyneſſ is upon us<g ref="char:punc">▪</g> and if any old errors which is unknown to moſt, with ſome quaint ex<g ref="char:EOLhyphen"/>preſſions and hye-flying Phyloſophical notions are delivered, how cowardly do we ſtart off from the old <hi>truths</hi> of Jeſus Chriſt, and are invaſſail'd by upſtart <hi>errors;</hi> It is a ſad time, but this a more ſad
+<pb n="12" facs="tcp:160080:11"/>
+                  <hi>omen</hi> of worſer times, even the rabble of opinions in this City of <hi>Briſtol;</hi> of which I may ſay, that as the ſword hath ſlain many, ſo hath error many more in a few moneths time. One while ſuch a man preacheth truth, and you are willing to pul out your eyes to do him good; a little after, you are ready to pul out his eyes, and he is a low man, and not worthy your preſence, and ſo diſcouraged. How many wayes do you make to heaven in this place? I beſeech you where I am related unto, to look to your Guards; Keep a ſtrict watch, double your Guard, eye your ſallyports; <hi>and put on the whole Armour of God, that you may be able to ſtand faſt to the Truth in the day of aſſault; that you may quit your ſelves like men.</hi>
+               </p>
+            </div>
+            <div type="application">
+               <head>
+                  <hi>Uſe</hi> 2.</head>
+               <p>Informeth us of the cauſes of this lowerlineſſe, and baſeneſſe of Spirit; and inconſtancy to <hi>Truth.</hi>
+               </p>
+               <div n="1" type="part">
+                  <head>Firſt.</head>
+                  <p>When men are ignorant, they may eaſily prove inconſtant; True men have abundance of indiſtinct knowledge, much head knowledge, little heart knowledge, Now the one makes men talk admi<g ref="char:EOLhyphen"/>rably, but the other to ſtand to it gallantly: Tru<g ref="char:EOLhyphen"/>ly Ignorance is the ſpunge to ſuck in all Errors; and ſpiritual Pride the bawde to vent them; that which is weak is light; chaff may be toſſed any way.</p>
+               </div>
+               <div n="2" type="part">
+                  <pb n="13" facs="tcp:160080:11"/>
+                  <head>Secondly.</head>
+                  <p>When mens apprehenſions are very large, but their affections very foul; when men know much of <hi>truth,</hi> but withall love much of the <hi>world,</hi> or ſelf, or ſinful Liberty: Now you know a foul ſto<g ref="char:EOLhyphen"/>mach ever makes an il head, and a ſecret love of <hi>ſin</hi> works out a love of <hi>truth:</hi> Men eaſily grow erro<g ref="char:EOLhyphen"/>neous when they affect Liberty, and wax Irreligi<g ref="char:EOLhyphen"/>ous.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>Third <hi>Cauſe.</hi>
+                  </head>
+                  <p>Men are ſtrangely infected with a baſe and late predominant Epidemical diſeaſe the Itch of ſpiri<g ref="char:EOLhyphen"/>tual Pride, which was caught of our firſt Parent; The greateſt Errors ever drop from thoſe that are moſt proud, and are taken up by thoſe that are moſt ignorant.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>Fourth.</head>
+                  <p>Many have <hi>Athenian</hi> wits, and long after Novel<g ref="char:EOLhyphen"/>ties; and although old Wine be beſt, yet they love to drink in faſhion.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>Fifth <hi>Cauſe.</hi>
+                  </head>
+                  <p>A Colloging ſlaviſhneſse, many giving up their faith and ſouls to opinions of other great men, or to Relations.</p>
+               </div>
+               <div n="6" type="part">
+                  <pb n="14" facs="tcp:160080:12"/>
+                  <head>Sixth.</head>
+                  <p>An eminent love of the world, this made <hi>Demas</hi> and <hi>Hymenaeus</hi> forſake <hi>truth.</hi> A ſlave to the world wil never be a faithful ſervant to <hi>truth;</hi> he that dares pawn their ſouls, wil in time venter to ſel the <hi>Truth.</hi>
+                  </p>
+               </div>
+               <div n="7" type="part">
+                  <head>Seventh.</head>
+                  <p>Licentious hearts, when men affect pleaſure, for corrupt doctrines gives more ſcope, then <hi>truth,</hi> to a libertinious heart; and we are apt to beleeve that ſooneſt that pleaſeth us beſt. Erroneous points are more for pleaſure and eaſe, yea and purſe too; Divine <hi>truths</hi> are for ſtrictneſſe. Now there are many <hi>Grecian</hi>-like give up their weapons for their ſports; many forſake the <hi>truth,</hi> that they may more freely injoy their Liberty, in thoſe ways are moſt pleaſing to their ſpirits.</p>
+               </div>
+            </div>
+            <div type="exhortation">
+               <head>
+                  <g ref="char:V">Ʋ</g>ſe Exhortation.</head>
+               <p>I am come heartily to beg of you this one thing, to lay a ſolid foundation in the knowledge of the <hi>truths</hi> of God. Confuſed brains cauſe unſettled hearts, reſt not with <hi>Pilates</hi> quere, <hi>where art thou?</hi> or with <hi>Iſrael</hi> to halt betwixt two opinions, nor to take up any <hi>truth</hi> on truſt for any mans ſake whatſoever, or any ſelf-ends or aims; but with the honorable <hi>Bereans</hi> ſearch the Scripture, receive <hi>truth</hi> upon the evidence of <hi>truth;</hi> be ſure of the
+<pb n="15" facs="tcp:160080:12"/>
+Word, there is litle difference betwixt <hi>ſhiboleth</hi> and <hi>ſiboleth;</hi> yea <hi>and in the laſt days many ſhal ſay loe this is Christ, and here is Chriſt;</hi> yet try: yea, the Enemy hath got the <hi>word,</hi> therefore be ſtrict upon examination, bring the moſt ſpecious expreſ<g ref="char:EOLhyphen"/>ſions to the Standard, try all there.</p>
+            </div>
+            <div type="question">
+               <head>Quaere.</head>
+               <p>How ſhal we know the <hi>truth</hi> upon his march, there being ſo many gone out under his banners to deceive; and all is not gold that gliſters, <hi>Try the ſpirits, for every ſpirit is not of God.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>Solu.</head>
+               <p>You may make a diſcovery
+<list>
+                     <item>Firſt, by its <hi>Unity.</hi>
+                     </item>
+                     <item>Second, by its <hi>Purity</hi>
+                     </item>
+                     <item>Thirdly, its <hi>Efficacy.</hi>
+                     </item>
+                     <item>Fourthly <hi>Antiquity.</hi>
+                     </item>
+                     <item>Fifthly, <hi>Simplicity.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>For the firſt obſerve it, you ſhal find it one as God is one, <hi>Unum et verum convertuntur;</hi> There is but one way to heaven, many to miſs it. It is an uniſone with its principles. Erroneous doctrines want no outward harmony, and outward conſent; but <hi>truth,</hi> as it is one in itſelf, ſo it works men to one<g ref="char:EOLhyphen"/>neſſe, to be of one mind; <hi>truth</hi> is of a binding up nature.</p>
+               <div n="2" type="part">
+                  <pb n="16" facs="tcp:160080:13"/>
+                  <head>Secondly.</head>
+                  <p>Truth is comprehended in Purity, Errors are much in outward beauty (like Curtizans little in honeſty; Truth is pure in its ſelf and unto us; It is an adverſary to all ſin, becauſe all ſin is an adver<g ref="char:EOLhyphen"/>ſary to Jeſus Chriſt and to Gods glory; It is pure likewiſe in its operations, it ſets it ſelf againſt all baſeneſſe; <hi>Titus</hi> 1.14, 15. <hi>It is truly pure, not coun<g ref="char:EOLhyphen"/>terfeitly pure.</hi>
+                  </p>
+               </div>
+               <div n="3" type="part">
+                  <head>Thirdly.</head>
+                  <p>By the efficacy of <hi>truth</hi> other doctrines add to our Notions, but never meddle with our corrupti<g ref="char:EOLhyphen"/>ons, they ſwel our heads, but never mend our hearts; they work in the brain, but never meddle with the ſpirit; increaſe much wit to talk wel, but con<g ref="char:EOLhyphen"/>veigh little ſtrength to walk cloſe with God. In a word, they never bring <hi>grace</hi> or <hi>peace</hi> from Jeſus Chriſt: The <hi>truth</hi> that comes from God, leadeth to God. It makes the bad good, and the good better. Truth works the heart, not only from groſſer, but leſſer ſins, even the ſpots of the world; 1 <hi>Theſ.</hi> 5.22. <hi>vid.</hi> Truth works the heart to a liking of nothing unlike it ſelf, or unbecom<g ref="char:EOLhyphen"/>ing the Goſpel of Jeſus Chriſt.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>Fourthly.</head>
+                  <p>By the Antiquity, <hi>Id demum veriſsimum quod an<g ref="char:EOLhyphen"/>tiquiſsimum;</hi>
+                     <pb n="17" facs="tcp:160080:13"/>
+and truly as it was ſometime replyed to thoſe of <hi>Rome,</hi> that we can look beyond <hi>Luther,</hi> So may we to the rabble of Hereſies in theſe times, we can look and ſee the time when they had not a being; indeed they are comparatively but of yeſter<g ref="char:EOLhyphen"/>day: and it is poſſible for an eaſie Herald to drive the pedigree of the <hi>Anabaptiſt, Browniſts, Antino<g ref="char:EOLhyphen"/>mians, Pelagians, Socinians, Arians, Antetrini<g ref="char:EOLhyphen"/>tarians, Seekers, &amp;c.</hi> and to demonſtrate them to be all ſubſervient, although active actors for Scout maſter general, ſelf-ends or aims, when <hi>truth</hi> like the Sun hath run its courſe through all ages, not that all have imbraced it, but ſome have received it.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>Fifthly.</head>
+                  <p>By its Simplicity it wil indure handling, it is found; Erroneous doctrine like unfound fleſh, or ſore eyes, abhors a touch, or the light; and there<g ref="char:EOLhyphen"/>fore is more in private then publick; not that I oppoſe private duties, but priſe them, but reſiſt thoſe that oppoſe publick Ordinances; For if what any deliver in their private conventions bee good and ſound <hi>truth,</hi> I beſeech them let it come to light, <hi>Bonum quo communius eo melius;</hi> Truth fears no trial; although il faced women would have al glaſſes broken but ſuch as they have got made to flatter them; <hi>Truth</hi> put it ſelf upon proof; yea in publick, <hi>Veritas non querere argales,</hi> eſpecially in days of Liberty of the Goſpel, and when <hi>truth</hi> is pallizadoed with ſo many oaky fortifications: It is not now accuſation enough to be a Chriſtian;
+<pb n="18" facs="tcp:160080:14"/>
+no, be as holy as <hi>David,</hi> as muke as <hi>Moſes,</hi> as wiſe as <hi>Solomon;</hi> walk with God, and be upright before him with <hi>Abraham,</hi> yea let every man be follow<g ref="char:EOLhyphen"/>ers of Jeſus Chriſt, and injoy his Liberty in the <hi>Truths</hi> of Ieſus Chriſt; for, bleſſed be God, there may be ſome pretences (but no juſt ground for the leaſt fear of perſecution for conſcience-ſake.</p>
+               </div>
+               <div type="part">
+                  <head>Laſtly.</head>
+                  <p>Having found out the <hi>truth,</hi> I beg heartily of you, yea (more then for my Arrears) to love the <hi>truth,</hi> do the <hi>truth,</hi> ſuffer for the <hi>truth,</hi> this wil bee a ſure boult to keep out all Errors; when <hi>Truth</hi> is ſtil ſtirring in your ears, and <hi>Sin</hi> ruling in your hearts, you can never do good on it; he muſt needs have a meek hand to hold faſt <hi>truth,</hi> or foot to ſtand faſt that hath a wicked heart; <hi>Hymenaeus</hi> let go faith and a good conſcience together, 1 <hi>Tim.</hi> 1.19. Wherefore I beſeech you be doing Chriſti<g ref="char:EOLhyphen"/>ans, as wel as knowing ones; And now ſhould I fal on with the reſerve, and ſhew you the beauty and honour of a reſolved ſpirit for the <hi>truths</hi> of Ieſus Chriſt; And have given a thorow and thorow charge to the ſad, yet bold diviſions of theſe times with my left wing under the prevailing Banner of Love and Unity; and ſhown you how good a thing it is, for brethren to live in Love and Unity, but I am prevented in managing this onſlaught at preſent, and ſhal take leave of you, praying you that all things may be done amongſt you in love; And
+<pb n="19" facs="tcp:160080:14"/>
+praying for you, That the God of <hi>truth</hi> would lead you on from this day, and fix and eſtabliſh you in the Truth. Finally brethren farewel, be perfect, be of good comfort, be of one mind, live in love and peace, and the God of love and peace ſhal be with you; yea, now the very God of peace ſancti<g ref="char:EOLhyphen"/>fie you all throughout. And now the Lord of peace himſelf give you peace by all means; The Lord be with you all.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
